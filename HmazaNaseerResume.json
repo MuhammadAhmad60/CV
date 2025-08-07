@@ -1,0 +1,127 @@
+{
+    "name" : "Hamza Naseer" ,
+    "title" : "Full Stack Engineer (.Net Angular, React)",
+    "contact" : {
+        "phone" : "+16467132033",
+        "email" : " Hamza.Naseer321@outlook.com",
+        "address" : "Stroudsburg, PA"
+    },
+"summary": [
+  "I am a skilled Full Stack Developer with 6+ years of experience specializing in .NET and Angular development.",
+  "I have also dedicated 3 years to mastering React, rounding out my expertise in creating robust and dynamic web applications.",
+ " My track record includes delivering high-quality solutions by seamlessly integrating backend systems with efficient and responsive user interfaces.",
+ "Throughout my career, I have demonstrated a commitment to staying current with industry trends and a passion for delivering impactful results.",
+  "With a proven ability to collaborate within cross-functional teams and a focus on problem-solving, I am well equipped to contribute effectively to your projects.",
+  "My comprehensive skill set in Full Stack development, encompassing .NET, Angular, and React, positions me as a valuable assetto your team's success."
+
+],
+  "key_achievements": [
+    {
+      "title": "CI/CD Pipeline Implementation",
+      "details": "Increased development speed by 30% using Azure DevOps CI/CD pipelines."
+    },
+    {
+      "title": "Serverless Architecture Optimization",
+      "details": "Reduced server workload by 40% with optimized Azure Functions architecture."
+    },
+    {
+      "title": "Real-Time Notification System",
+      "details": "Boosted user engagement by 25% through real-time notifications."
+    },
+    {
+      "title": "Performance Optimization Success",
+      "details": "Improved codebase efficiency by 35% via caching strategies."
+    }
+  ],
+"experience" : [
+{
+    "job_title" : "Full Stack Engineer (.Net & Angular)",
+    "company" :"Innovision Tech LLC",
+    "duration" : "06/2022 - Present",
+    "job_time" : "Full Time",
+    "responsibilities": [
+  " At Innovision Tech LLC, I bring a dynamic blend of .NET, Angular, and cloud technologies to deliver advanced solutions that solve realworld challenges.",
+  " My focus is on creating high-performance applications that not only meet business requirements but also drive long-term success.",
+  " Working in an agile environment, I collaborate with stakeholders to design innovative systems that align with both client and user needs .",
+   " By continuously optimizing processes and embracing emerging technologies, I play an integral role in ensuring that our projects are not only successful but also set the standard for excellence in the industry.",
+   " Guided the implementation of CI/CD pipelines using Azure DevOps, automating testing and deployment processes to increase development speed and reduce errors.",
+   " Implemented JWT, Identity User/Role Management, Claims-Based Access, and 2FA for secure authentication and authorization.",
+   " Spearheaded the development of serverless architectures with Azure Functions, streamlining processes and enabling eventdriven, scalable solutions.",
+   " Drove the implementation of real-time notifications through custom-built APIs, delivering critical updates and keeping users engaged.",
+   " Utilized GitHub Copilot to rapidly explore coding solutions and create prototypes, significantly speeding up the early development phases of projects.",
+   " Worked on Azure Functions and Azure Virtual Machines for serverless computing, enhancing cloud infrastructure while reducing overhead costs.",
+   " Provided mentorship to junior developers, enhancing team capabilities through guidance on best practices and new technologies.",
+   " Played a pivotal role in performance optimization, enhancing code efficiency and improving application load times through innovative caching strategies and database tuning.",
+   " Developed a comprehensive set of middleware extensions for ASP.NET Core to streamline operations and improve system performance.",
+   " Managed Azure (VMs, Virtual Networfis, SQL Servers), AWS (Lambda, EC2, OpenShift), and automated deployments using Azure DevOps, Terraform, and PowerShell .",
+   " Integrated SonarQube with Azure code repositories for automated code coverage and code smell analysis, improving security and vulnerability detection. Streamlined development workflow by detecting and addressing security threats early in the CI/CD pip."
+]
+},
+{
+    "job_title" : "Full Stack Engineer ",
+    "company" :"Kanrix Technologies LLC",
+    "duration" : "06/2019 - 05/2022",
+    "job_time" : "Full Time",
+    "responsibilities": [
+    " Developed and maintained robust web applications using .NET Core and React.",
+    "  Improved project delivery efficiency by 15% by collaborating with 5 cross-functional teams to gather requirements and design solutions.",
+    " Implemented responsive UI/UX using React's component-based architecture.",
+    " Integrated RESTful APIs to interact with back-end services and databases.",
+    " Conducted code reviews and provided technical guidance to junior developers.",
+    " Optimized performance by implementing caching and code refactoring.",
+    " Worked closely with the QA team to ensure bug-free and high-quality deliverables.",
+    " Implemented security measures and followed best practices protecting sensitive data.",
+    " Mentored interns, fostering a culture of continuous learning and improvement."
+
+]
+}
+],
+"education" :[
+    {
+        "degree" : "Bachelor's in Computer Science ",
+        "session" : "02/2019 - 11/2022"
+    }
+],
+"languages" : [ "English (Proficient)" ],
+  "skills": [
+    "ADO.NET", "Agile", "AJAX", "Jira", "Angular ", "Apache", "API Integration",
+    "TypeScript", "SSRS", "ASP.NET MVC", "Razor", "ASP.NET Core", ".NET 5", "AWS",
+    "Azure", "Azure Cloud", "Azure SQL", "Azure DevOps", "Bitbucket", "Bootstrap",
+    "CI/CD", "Cloud Services", "Containers", "HTML/CSS", "JavaScript", "Software Architecture",
+    "LINQ", "Castle Windsor", "Twilio API", "WCF", "Swagger", "SDLC", "GIT", "SOAP",
+    "Google Maps API", "Web Services", "Apache", "JSON", "JWT", "API Design", "Redux",
+    "XML", "SQL", "MySQL", "T-SQL", "SonarCloud", "jQuery", "PostgreSQL", "Payroll Systems",
+    "MediatR", "SCSS", "EC2", "Docker", "Azure Cosmos DB", "C#", "MVC", "GitHub",
+    "CSV Processing", "OOP", "REST APIs", "MongoDB", "React", "Vue.js", "SignalR",
+    "System Design", "Azure Blobs", "GKE", "jQuery DataTables"
+  ],
+  "strengths": [
+    {
+      "title": "Full Stack Expertise",
+      "description": "Proven expertise in developing scalable, real-world solutions with .NET Angular. "
+    },
+    {
+      "title": "DevOps Proficiency",
+      "description": "Skilled in CI/CD pipelines for optimized,fast,and error-reduced deployments. "
+    },
+    {
+      "title": "Leadership and Mentorship",
+      "description": "Mentorship experience, enhancing team skills and fostering continuous learning."
+    },
+    {
+      "title": "Strong Collaboration",
+      "description": "Exceptional collaboration with stakeholders for agile, client-centric designs."
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+

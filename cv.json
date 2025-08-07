@@ -1,0 +1,100 @@
+{
+    "name" : "Qasim Zahid" ,
+    "title" : "Full Stack Developer",
+    "contact" : {
+        "phone" : "(917) 935-4342",
+        "email" : "qasimzahid123@outlook.com",
+        "linkedin" :"https://www.linkedin.com/in/qasim-zahid-054636264",
+        "address" : "Staten Island NY"
+    },
+"summary": [
+  "Dynamic and results-oriented Full Stack Developer with 5+ years of experience building secure, scalable, and high-performance web applications across diverse domains including Healthcare, E-commerce, Insurance, Cybersecurity, Supply Chain, and Education.",
+  "Specialized in delivering AI-powered enterprise solutions, with deep expertise in Angular, React, Node.js, and .NET Core.",
+  "Proficient in integrating machine learning and NLP models into real-world systems using OpenAI API, TensorFlow, Scikit-learn, and LangChain.",
+  "Experienced in architecting microservices and deploying platforms via AWS, Azure, and GCP.",
+  "Strong emphasis on performance optimization, security, and maintainability.",
+  "Known for strategic problem-solving and innovation at scale."
+],
+"experience" : [
+{
+    "job_title" : "Full Stack Developer ",
+    "company" :"InnoVision Tech LLC ",
+    "duration" : "07/2022 - Present",
+    "job_time" : "Full Time",
+    "responsibilities": [
+  "• Highly skilled Full Stack Developer with hands-on experience in Angular, React.js, Next.js, Node.js/Express.js, and C#/.NET, with a strong emphasis on TypeScript and C# across all frameworks.",
+  "• Led end-to-end development for five complex applications using MEAN, MERN, .NET, and Python stacks—overseeing design, implementation, debugging, and testing.",
+  "• Designed and deployed AI-driven modules for a healthcare platform enabling predictive patient risk analysis using Python, TensorFlow, LangChain, and Angular.",
+  "• Implemented personalized eCommerce experiences using OpenAI APIs, including smart product recommendations and dynamic filters—boosting engagement and conversions.",
+  "• Modernized insurance systems with GPT-3.5-powered chatbots and automated forms, streamlining policy issuance and improving customer service speed.",
+  "• Developed serverless APIs using Azure Functions and AWS Lambda for real-time data processing in healthcare and retail applications.",
+  "• Optimized database queries, achieving 20% faster response times across multiple high-load systems.",
+  "• Enhanced app performance by reducing server requests by 40% through strategic caching implementations.",
+  "• Expert in Microsoft Azure, including Function Apps and Logic Apps for deploying and managing cloud-native, scalable workflows.",
+  "• Built and integrated RESTful and GraphQL APIs, enhancing front-end feature availability and responsiveness.",
+  "• Collaborated with cross-functional teams to improve feature integration, driving seamless UI/UX delivery.",
+  "• Contributed to Agile practices through daily stand-ups, sprint planning, and retrospectives—improving team output by 15%.",
+  "• Ensured high code quality through peer reviews, reducing technical debt by 25%.",
+  "• Boosted application scalability with targeted performance testing, leading to a 30% increase in capacity.",
+  "• Resolved over 50 technical issues for clients, providing timely support and improving satisfaction scores.",
+  "• Built, tested, and maintained high-performance SPAs using Angular and React.",
+  "• Mentored junior developers, accelerating onboarding and improving team skillset—reducing ramp-up time by 15%.",
+  "• Reduced development timelines by 20% using modular architecture and reusable custom components.",
+  "• Enhanced page performance by 25% via optimization techniques such as lazy loading and code splitting."
+]
+},
+{
+    "job_title" : "Full Stack Developer ",
+    "company" :"Dev&Mark LLC ",
+    "duration" : "01/2020- 06/2022",
+    "job_time" : "Full Time",
+    "responsibilities": [
+  " Developed full-stack web applications using Angular, React, Node.js, and MongoDB, consistently delivering projects ahead of schedule.",
+  " Spearheaded the successful launch of scalable Outreach Manager applications, leading a cross-functional development team.",
+  " Created real-time monitoring dashboards, dynamic form builders, and modular web components for both Angular and React environments.",
+  " Enabled reala-time interactivity across applications, significantly boosting user engagement and responsiveness.",
+  " Improved application security by 30% through the implementation of secure coding standards and proactive vulnerability mitigation",
+  " Achieved 25% faster build times by adopting optimized coding patterns and bundling strategies in Angular and React.",
+  " Enhanced performance of enterprise-scale applications by developing reusable components and integrating Redux for robust state management.",
+  " Contributed within an Agile development lifecycle, ensuring iterative delivery of scalable, high-performance applications.",
+  " Improved API integration efficiency through close collaboration with backend teams, ensuring seamless front-end communication.",
+  " Accelerated feature delivery using advanced error handling, logging, and prioritization strategies.",
+  " Integrated multiple third-party APIs to expand functionality and reduce custom development cycles, cutting down overall dev time.",
+  " Implemented a gateway server for distributed authentication to ensure load balancing and secure session management.",
+  " Automated and streamlined deployment workflows with Docker and Azure Kubernetes Service (AKS), improving monitoring and reliability in production environments."
+]
+}
+],
+"education" :[
+    {
+        "institute" : "College of Staten Island",
+        "degree" : "Bachelor's in Computer Science "
+    }
+],
+"languages" : [ "English native "  ],
+"skills":[
+" Frontend: HTML, CSS, SCSS, JavaScript, TypeScript, React.js, Next.js, Angular (Versions 2+ to latest), RxJS, NgRx, Redux, Context API,Material-UI, Bootstrap, Ant Design, Zustand, React Query, Tailwind CSS .",
+" Backend: Node.js, Express.js, NestJS, ASP.Net ,ASP.Net Core, C#/.Net.",
+" State Management: Recoil, Zustand, MobX, Redux (Thunk, Saga).",
+" Performance Optimization: Code Splitting, Webpack Optimization, Route Guards, Custom Directives & Pipes, Virtual DOM, Lazy Loading.",
+" API Development & Integration: RESTful APIs, GraphQL, Apollo Client, Axios, WebSockets.",
+" Testing & Tools: Jest, React Testing Library, Cypress, Mocha, Chai, Webpack, Babel, NPM, Yarn, Gulp.",
+" Authentication & Security: JWT, OAuth2.0, SAML, OWASP best practices.",
+" Database Management: MySQL, PostgreSQL, MongoDB, Firebase, Redis.",
+" Serverless Development: AWS Lambda, Azure Functions, Firebase Functions.",
+" Cloud & DevOps: AWS (S3, Lambda, EC2, CloudFront), Docker, Google Cloud, MS Azure, FireBase, Kubernetes, CI/CD (Jenkins, GitHub Actions, GitLab CI).",
+" Version Control: Git, GitHub, GitLab, Bitbucket.",
+" Agile & Collaboration: Trello, Kanban, Jira, Confluence, Scrum  ."
+]
+}
+
+
+
+
+
+
+
+
+
+
+
