@@ -42,6 +42,7 @@ Respond with only the **final CV JSON**. Do not wrap it in ```json or any other 
         result = llm.invoke(prompt)
         return json.loads(result)
     except json.JSONDecodeError:
-        return {"error": "Model output is not valid JSON"}
+        return {"error": " Model output was not valid JSON"}
     except Exception as e:
-        return {"error": str(e)}
+        return {"error": f" Model error: {str(e)}"}
+
